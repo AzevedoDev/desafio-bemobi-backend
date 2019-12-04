@@ -22,73 +22,85 @@
       "id": 1,
       "name": "oi",
       "lps": 3,
-      "region_id": 124
+      "region_id": 124,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FOi.png?v=1575483716823"
     },
     {
       "id": 2,
       "name": "claro",
       "lps": 3,
-      "region_id": 124
+      "region_id": 124,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FClaro.png?v=1575483716492"
     },
     {
       "id": 3,
       "name": "tim",
       "lps": 3,
-      "region_id": 124
+      "region_id": 124,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FTim.png?v=1575483718584"
     },
     {
       "id": 4,
       "name": "vivo",
       "lps": 3,
-      "region_id": 124
+      "region_id": 124,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fvivo.png?v=1575483718721"
     },
     {
       "id": 5,
       "name": "movistar",
       "lps": 3,
-      "region_id": 1348
+      "region_id": 1348,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FMovistar.png?v=1575483715738"
     },
     {
       "id": 6,
       "name": "telcel",
       "lps": 3,
-      "region_id": 1348
+      "region_id": 1348,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Ftelcel.png?v=1575483717459"
     },
     {
       "id": 7,
       "name": "personal",
       "lps": 3,
-      "region_id": 1348
+      "region_id": 1348,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fpersonal.png?v=1575483717310"
     },
     {
       "id": 8,
       "name": "claroamx",
       "lps": 3,
-      "region_id": 1348
+      "region_id": 1348,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FClaro.png?v=1575483716492"
     },
     {
       "id": 9,
       "name": "mtc",
       "lps": 3,
-      "region_id": 908
+      "region_id": 908,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FMTC.png?v=1575483716752"
     },
     {
       "id": 10,
       "name": "lifecel",
       "lps": 3,
-      "region_id": 908
+      "region_id": 908,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Flifecel.png?v=1575483713960"
     },
     {
       "id": 11,
       "name": "axis",
       "lps": 3,
-      "region_id": 908
+      "region_id": 908,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Faxis.png?v=1575483716160"
     },
     {
       "id": 12,
       "name": "celcom",
       "lps": 3,
-      "region_id": 908
+      "region_id": 908,
+      "logo": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fcelcom.png?v=1575483716434"
     }
   ],
   "lps": [
@@ -99,7 +111,7 @@
       "portal": "WAP",
       "landing": "Wap_truecaller",
       "url": "http://wap.oi.com.br/lp/truecallerwap",
-      "image": "./images/Truecaller.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FTruecaller.png?v=1575483715223",
       "carrier_id": 1
     },
     {
@@ -109,7 +121,7 @@
       "portal": "NoCredit",
       "landing": "descontos_NoCredit",
       "url": "http://portalrecarga.vivo.com.br/lp/page/descontosnc1",
-      "image": "./images/Vivo_descontos.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FVivo_descontos.png?v=1575483715552",
       "carrier_id": 4
     },
     {
@@ -119,7 +131,7 @@
       "portal": "NoCredit",
       "landing": "Claro_Apps_no_credit",
       "url": "http://recargafacil.claro.com.br/lp/clubeappsb",
-      "image": "./images/Subway_surf.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FSubway_surf.png?v=1575483717289",
       "carrier_id": 2
     },
     {
@@ -129,7 +141,7 @@
       "portal": "WAP",
       "landing": "wap_tim",
       "url": "http://wap.tim.com.br/",
-      "image": "./images/wap_tim.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fwap_tim.png?v=1575483718065",
       "carrier_id": 3
     },
     {
@@ -139,7 +151,7 @@
       "portal": "No_credit",
       "landing": "No_credit_movistar",
       "url": "http://arm.wlsmapi.com/optin.php",
-      "image": "./images/NC_movistar.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FNC_movistar.png?v=1575483714443",
       "carrier_id": 5
     },
     {
@@ -149,7 +161,7 @@
       "portal": "No_credit",
       "landing": "No_credit_telcel",
       "url": "http://telcel.clubapps.com.mx/static-assets/portal/telcel/nc.vas.html",
-      "image": "./images/nc_telcel.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fnc_telcel.png?v=1575483714975",
       "carrier_id": 6
     },
     {
@@ -159,7 +171,7 @@
       "portal": "Web",
       "landing": "Apps_club",
       "url": "http://server.appsclub.com.br/web/index.html?frontend=personalgamesclub_ar&vertical=personalgamesclub_ar",
-      "image": "./images/apps_club.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fapps_club.png?v=1575483718197",
       "carrier_id": 7
     },
     {
@@ -169,7 +181,7 @@
       "portal": "No_credit",
       "landing": "no_credit",
       "url": "https://www.claro.com.co/personas/app/solicitudes/solicitud-producto-movil-nv/",
-      "image": "./images/nc_claro.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fnc_claro.png?v=1575483716176",
       "carrier_id": 8
     },
     {
@@ -179,7 +191,7 @@
       "portal": "No_credit",
       "landing": "no_credit_MTC",
       "url": "https://mts.appsclub.com.ua",
-      "image": "./images/nc_mtc.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fnc_mtc.png?v=1575483714575",
       "carrier_id": 9
     },
     {
@@ -189,7 +201,7 @@
       "portal": "No_credit",
       "landing": "no_credit_lifecel",
       "url": "http://life.appsclub.com.by",
-      "image": "./images/nc_lifecel.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fnc_lifecel.png?v=1575483714409",
       "carrier_id": 10
     },
     {
@@ -199,7 +211,7 @@
       "portal": "No_credit",
       "landing": "no_credit_axis",
       "url": "http://xl.appsclub.co.id",
-      "image": "./images/Nc_axis.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2FNc_axis.png?v=1575483714269",
       "carrier_id": 11
     },
     {
@@ -209,7 +221,7 @@
       "portal": "wap",
       "landing": "wap_celcom",
       "url": "http://globe.appsclub.com.ph",
-      "image": "./images/nd_celcom.png",
+      "image": "https://cdn.glitch.com/ae66c7c3-0747-48c6-ab04-7a5d9b9b5f88%2Fnd_celcom.png?v=1575483718393",
       "carrier_id": 12
     }
   ]
