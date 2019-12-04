@@ -1,0 +1,216 @@
+{
+  "regions": [
+    {
+      "id": 124,
+      "name": "Brasil",
+      "carriers": 4
+    },
+    {
+      "id": 1348,
+      "name": "Latam",
+      "carriers": 4
+    },
+    {
+      "id": 908,
+      "name": "RoW",
+      "carriers": 4
+    }
+  ],
+
+  "carriers": [
+    {
+      "id": 1,
+      "name": "oi",
+      "lps": 3,
+      "region_id": 124
+    },
+    {
+      "id": 2,
+      "name": "claro",
+      "lps": 3,
+      "region_id": 124
+    },
+    {
+      "id": 3,
+      "name": "tim",
+      "lps": 3,
+      "region_id": 124
+    },
+    {
+      "id": 4,
+      "name": "vivo",
+      "lps": 3,
+      "region_id": 124
+    },
+    {
+      "id": 5,
+      "name": "movistar",
+      "lps": 3,
+      "region_id": 1348
+    },
+    {
+      "id": 6,
+      "name": "telcel",
+      "lps": 3,
+      "region_id": 1348
+    },
+    {
+      "id": 7,
+      "name": "personal",
+      "lps": 3,
+      "region_id": 1348
+    },
+    {
+      "id": 8,
+      "name": "claroamx",
+      "lps": 3,
+      "region_id": 1348
+    },
+    {
+      "id": 9,
+      "name": "mtc",
+      "lps": 3,
+      "region_id": 908
+    },
+    {
+      "id": 10,
+      "name": "lifecel",
+      "lps": 3,
+      "region_id": 908
+    },
+    {
+      "id": 11,
+      "name": "axis",
+      "lps": 3,
+      "region_id": 908
+    },
+    {
+      "id": 12,
+      "name": "celcom",
+      "lps": 3,
+      "region_id": 908
+    }
+  ],
+  "lps": [
+    {
+      "id": 234,
+      "status": "active",
+      "service": "Truecaller",
+      "portal": "WAP",
+      "landing": "Wap_truecaller",
+      "url": "http://wap.oi.com.br/lp/truecallerwap",
+      "image": "./images/Truecaller.png",
+      "carrier_id": 1
+    },
+    {
+      "id": 235,
+      "status": "active",
+      "service": "descontos",
+      "portal": "NoCredit",
+      "landing": "descontos_NoCredit",
+      "url": "http://portalrecarga.vivo.com.br/lp/page/descontosnc1",
+      "image": "./images/Vivo_descontos.png",
+      "carrier_id": 4
+    },
+    {
+      "id": 236,
+      "status": "active",
+      "service": "Claro_Apps",
+      "portal": "NoCredit",
+      "landing": "Claro_Apps_no_credit",
+      "url": "http://recargafacil.claro.com.br/lp/clubeappsb",
+      "image": "./images/Subway_surf.png",
+      "carrier_id": 2
+    },
+    {
+      "id": 237,
+      "status": "active",
+      "service": "TIM_Vitrine",
+      "portal": "WAP",
+      "landing": "wap_tim",
+      "url": "http://wap.tim.com.br/",
+      "image": "./images/wap_tim.png",
+      "carrier_id": 3
+    },
+    {
+      "id": 238,
+      "status": "inactive",
+      "service": "Recarga_Movistar",
+      "portal": "No_credit",
+      "landing": "No_credit_movistar",
+      "url": "http://arm.wlsmapi.com/optin.php",
+      "image": "./images/NC_movistar.png",
+      "carrier_id": 5
+    },
+    {
+      "id": 239,
+      "status": "inactive",
+      "service": "Recarga_Telcel",
+      "portal": "No_credit",
+      "landing": "No_credit_telcel",
+      "url": "http://telcel.clubapps.com.mx/static-assets/portal/telcel/nc.vas.html",
+      "image": "./images/nc_telcel.png",
+      "carrier_id": 6
+    },
+    {
+      "id": 239,
+      "status": "active",
+      "service": "Personal_Juegos",
+      "portal": "Web",
+      "landing": "Apps_club",
+      "url": "http://server.appsclub.com.br/web/index.html?frontend=personalgamesclub_ar&vertical=personalgamesclub_ar",
+      "image": "./images/apps_club.png",
+      "carrier_id": 7
+    },
+    {
+      "id": 239,
+      "status": "active",
+      "service": "recarga_Claro",
+      "portal": "No_credit",
+      "landing": "no_credit",
+      "url": "https://www.claro.com.co/personas/app/solicitudes/solicitud-producto-movil-nv/",
+      "image": "./images/nc_claro.png",
+      "carrier_id": 8
+    },
+    {
+      "id": 239,
+      "status": "inactive",
+      "service": "recarga_MTC",
+      "portal": "No_credit",
+      "landing": "no_credit_MTC",
+      "url": "https://mts.appsclub.com.ua",
+      "image": "./images/nc_mtc.png",
+      "carrier_id": 9
+    },
+    {
+      "id": 239,
+      "status": "inactive",
+      "service": "recarga_lifecel",
+      "portal": "No_credit",
+      "landing": "no_credit_lifecel",
+      "url": "http://life.appsclub.com.by",
+      "image": "./images/nc_lifecel.png",
+      "carrier_id": 10
+    },
+    {
+      "id": 239,
+      "status": "inactive",
+      "service": "recarga_axis",
+      "portal": "No_credit",
+      "landing": "no_credit_axis",
+      "url": "http://xl.appsclub.co.id",
+      "image": "./images/Nc_axis.png",
+      "carrier_id": 11
+    },
+    {
+      "id": 239,
+      "status": "inactive",
+      "service": "recarga_celcom",
+      "portal": "wap",
+      "landing": "wap_celcom",
+      "url": "http://globe.appsclub.com.ph",
+      "image": "./images/nd_celcom.png",
+      "carrier_id": 12
+    }
+  ]
+}
